@@ -1,5 +1,5 @@
 ## Whisper
-A windows utility reading selected text.
+A windows utility reading selected text. [< Download Link >](https://github.com/kenial/Whisper/raw/master/download/Whisper.exe)
 
 ## How to use
 - Select any text
