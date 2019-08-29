@@ -148,7 +148,6 @@ namespace Whisper
 
         #endregion
 
-        private ContextMenuStrip contextMenuStrip1;
         public ComboBox VoiceComboBox;
         public TrackBar SpeakVolumeTrackBar;
         public TrackBar SpeakRateTrackBar;
